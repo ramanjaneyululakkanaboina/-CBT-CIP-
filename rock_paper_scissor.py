@@ -13,6 +13,6 @@ else:
     elif (my_choice == 'rock' and computer == 'scissors') or \
          (my_choice == 'scissors' and computer == 'paper') or \
          (my_choice == 'paper' and computer == 'rock'):
-        print("You Win! 🎉")
+        print("You Win!")
     else:
-        print("Computer Wins! 😢")
+        print("Computer Wins!")
